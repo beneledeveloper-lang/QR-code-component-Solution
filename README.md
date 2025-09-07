@@ -1,0 +1,1 @@
+-To view final project just open the 'index.html' file in browser. Open the 'index.html' file with an editor of your choice to see and edit to your choice.
